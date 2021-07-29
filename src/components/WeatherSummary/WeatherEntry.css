@@ -1,0 +1,30 @@
+.weatherContainer{
+    display:grid;
+    justify-content: center;
+    grid-template-columns:auto;
+    align-items:center;
+    justify-items: center;
+    height: 60vh;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: blue;
+    grid-gap: 1rem;
+    padding: 1rem;
+    
+}
+
+.weatherItem{
+    cursor:pointer;
+    display:inline-block;
+    text-align: center;
+    font-size: 1rem;
+    border-radius:5px;
+    border: solid 2px whitesmoke;
+    padding: 12px;
+    transition: all 1s linear;
+    white-space: pre-wrap;
+    
+    
+}
+
+

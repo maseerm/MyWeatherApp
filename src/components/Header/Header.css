@@ -1,0 +1,19 @@
+.headerContainer{
+    display:flex;
+    background-color: rgb(53, 105, 202);
+    justify-content: center;
+    font-weight: bold;
+    justify-content: center;
+    height: 10vh;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-weight: 200;
+  color: white;
+  font-weight: bold;
+}
+
+body{
+    margin: 0;
+}
